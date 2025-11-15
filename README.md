@@ -20,7 +20,7 @@ An efficient, open-source Python implementation of adaptive numerical methods fo
 | Uniform FDM        | 1000–5000   | ~10⁻⁶     | Diffuse       |
 | **Hardy-Adaptive** | **100–600** | **~10⁻³** | **Sharp**     |
 
-**Full Technical Report (34 pages):** [docs/PME_R_PME.pdf](docs/PME_R_PME.pdf)  
+**Full Technical Report:** [docs/PME_R_PME.pdf](docs/PME_R_PME.pdf)  
 **Live Examples:** `examples/barenblatt_1d.py`, `examples/gentrification_1d.py`  
 **Cite:** [CITATION.cff](CITATION.cff)
 
